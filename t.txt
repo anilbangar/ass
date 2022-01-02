@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 
 this is h3
 
 this is h2
 
+=======
+>>>>>>> parent of 8551c55 (h2 commited)
 this is h1
